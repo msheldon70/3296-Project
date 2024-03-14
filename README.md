@@ -1,6 +1,4 @@
 # Social Media App created using MERN
-- demo below
-https://dalelanto-social-media.netlify.app/login
 
 ## Getting Started with Create React App
 
